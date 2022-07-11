@@ -27,7 +27,7 @@ Techs that I've use
 
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-F05032?style=flat-square&logo=GitHub&logoColor=ffffff)](https://github.com/SeokBeomKo) ![GitHubPages](https://img.shields.io/badge/GitHubPages-20C997?style=flat-square&logo=GitHubPages&logoColor=ffffff) [![Notion](https://img.shields.io/badge/Notion-FE5196?style=flat-square&logo=Notion&logoColor=ffffff)](https://wealthy-giant-b08.notion.site/5ee2f860db864abaafbac472a9e9b166) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff)](enngo98@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-F05032?style=flat-square&logo=GitHub&logoColor=ffffff)](https://github.com/SeokBeomKo) ![GitHubPages](https://img.shields.io/badge/GitHubPages-20C997?style=flat-square&logo=GitHubPages&logoColor=ffffff) [![Notion](https://img.shields.io/badge/Notion-FE5196?style=flat-square&logo=Notion&logoColor=ffffff)](https://wealthy-giant-b08.notion.site/5ee2f860db864abaafbac472a9e9b166) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff)](mailto:enngo98@gmail.com)
 
 <br/><br/><br/>
 
