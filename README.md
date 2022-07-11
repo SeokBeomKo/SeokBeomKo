@@ -31,7 +31,7 @@ Techs that I've use
 
 <br/><br/><br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23FFFFFF&icon=github.svg&icon_color=%23000000&title=%27&edge_flat=true)](https://github.com/SeokBeomKo)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SeokBeomKo-counter&count_bg=%23000000&title_bg=%23FFFFFF&icon=github.svg&icon_color=%23000000&title=%27&edge_flat=true)](https://github.com/SeokBeomKo)
 
 </div>
 
